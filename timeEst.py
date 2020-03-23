@@ -1,3 +1,10 @@
+#------------------------#
+#---Alexander Shevtsov---#
+#--github: alexdrk14-----#
+#------------------------#
+#time estimation library that are should be called in every exectuion cycle
+#in case when step of execution is different step should be passed in each function call
+
 import time
 
 global_nmb_iter = None
